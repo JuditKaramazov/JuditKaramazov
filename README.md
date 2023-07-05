@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola! 👋, I'm Judit</h1>
-<h3 align="center">An incipient Fullstack Developer & Spanish Philologist</h3>
+<h3 align="center">An incipient Front-End Developer & Spanish Philologist</h3>
 <h4 align="center">-- Barcelona, Spain --</h4>
 <p align="center"> <img src="https://github.com/JuditKaramazov/JuditKaramazov/blob/4035f5a3819a93bbc2a80cfb918b796ca0dfa286/about-me.png" alt="about-me"/></p>
 
