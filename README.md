@@ -26,3 +26,11 @@
 <a href="https://linkedin.com/in/juditlazaromoyano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juditlazaromoyano" height="30" width="40" /></a>
 <a href="https://instagram.com/miss.oranjediscodancer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="miss.oranjediscodancer" height="30" width="40" /></a>
 </p>
+
+<h4 align="center">
+  <p> And remember that you'll make the Dinosaur happy if you...</p>
+  <a href="https://karamazfolio.xyz/"><img src="https://github.com/JuditKaramazov/JuditKaramazfolio/blob/a7b1825e33711948f51e53e249751761e1779f56/public/karamaBrand.png" width="90" height="90" alt="Original logo asset.">
+</h4>
+<h5 align="center">
+  <a href="https://www.buymeacoffee.com/JuditKaramazov" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 197px !important;" ></a>
+</h2>
