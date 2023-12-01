@@ -3,7 +3,7 @@
 <h4 align="center">-- Barcelona, Spain --</h4>
 <br />
 
-<p align="center"> <img src="https://github.com/JuditKaramazov/JuditKaramazov/blob/186cbc74b79ac4ae4aa890217dce3e11f21f5ef3/aboutMe.png" width="200" height="200" alt="Original 'About me' visual asset."></p>
+<p align="center"> <img src="https://github.com/JuditKaramazov/JuditKaramazov/blob/2d34dfd8f89968856934f9fe2273c682de108dc4/about.png" width="200" height="200" alt="Original 'About me' visual asset."></p>
 
 
 - 🌱 Learning and improving - step by step.
