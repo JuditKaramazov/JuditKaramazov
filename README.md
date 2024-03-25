@@ -8,11 +8,11 @@
 </p>
 
 
+- 📝 Last "book": [Insights from a Junior to Future Seniors](https://github.com/JuditKaramazov/InsightsFromJuniorToFutureSeniors)
+
 - 🌱 Learning and improving - step by step.
 
 - 🤝 Always willing **to help! 💬**
-
-- 📝 Next book: **l o a d i n g . . .**
 
 
 <h3 align="center">Languages and Tools:</h3>
