@@ -8,7 +8,9 @@
 </p>
 
 
-- 📝 Last "book": [Insights from a Junior to Future Seniors](https://github.com/JuditKaramazov/InsightsFromJuniorToFutureSeniors)
+- 📚 Last "book": [Insights from a Junior to Future Seniors](https://github.com/JuditKaramazov/InsightsFromJuniorToFutureSeniors)
+
+- 📝 Blog type? My article about [Signalis](https://www.karamablog.xyz/signalis-pixelating-our-deepest-discomforts/) is out!
 
 - 🌱 Learning and improving - step by step.
 
