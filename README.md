@@ -4,7 +4,7 @@
 <br />
 
 <p align="center"> 
-  <img src="https://github.com/JuditKaramazov/JuditKaramazov/blob/c129895064b24586c56023ed96785e948a38f8e1/dinoChristMazov.png" width="250" height="250" alt="Original 'About me' visual asset.">
+  <img src="https://raw.githubusercontent.com/JuditKaramazov/JuditKaramazfolio/main/public/karAvatar.png" width="290" height="290" alt="Original 'Judit Karamazov' avatar.">
 </p>
 
 
