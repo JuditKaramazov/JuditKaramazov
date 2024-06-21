@@ -140,12 +140,12 @@
 <h4 align="center">
   <p> And remember that you'll make the Dinosaur happy if you...</p>
   <a href="https://karamazfolio.xyz/">
-    <img src="https://github.com/JuditKaramazov/JuditKaramazfolio/blob/a7b1825e33711948f51e53e249751761e1779f56/public/karamaBrand.png" width="90" height="90" alt="Original logo asset.">
+    <img src="https://github.com/JuditKaramazov/JuditKaramazfolio/blob/a7b1825e33711948f51e53e249751761e1779f56/public/karamaBrand.png" width="70" height="70" alt="Original 'karamaSystems' logo.">
   </a>
 </h4>
 
 <h5 align="center">
   <a href="https://www.buymeacoffee.com/JuditKaramazov" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 187px !important;" >
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 177px !important;" >
   </a>
 </h5>
